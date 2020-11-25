@@ -1,5 +1,5 @@
 # SP500-Stock-Optimization
-Using Markowitz Optimization model to create a simple yet powerful portfolio using YTD stock data from Yahoo Finance. 
+Using Markowitz Optimization model to create a simple yet powerful portfolio optimization model using YTD stock data from Yahoo Finance. 
 
 1) Flow of the project:
 2) S&P500 Tickers Scraping from Wikipedia
